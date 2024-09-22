@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">速记 note</string>
+    <string name="pref_night_summary">打开/关闭 夜间模式</string>
+    <string name="pref_reversesort_summary">反转当前项目时间顺序</string>
+    <string name="pref_reversesort">逆时顺序</string>
+    <string name="pref_fabcolor_summary">选择添加记录按钮颜色</string>
+    <string name="pref_fabcolor">自定义添加按钮颜色</string>
+    <string name="pref_fabplancolor_summary">选择添加计划按钮颜色</string>
+    <string name="pref_fabplancolor">自定义添加计划按钮颜色</string>
+    <string name="pref_notetitle">记录标题风格</string>
+    <string name="pref_notetitle_summary">设置第一行为记录的标题</string>
+    <string name="title_activity_function">FunctionActivity</string>
+    <string name="policy">
+一、我们不会收集和使用您的用户信息\n
+
+    \t\t在您使用我们的服务时，您的个人信息将存储在您本地存储空间，我们不会收集和使用您的用户信息。\n
+
+二、本政策如何更新\n
+
+    \t\t我们的隐私政策可能变更。未经您明确同意，我们不会削减您按照本隐私政策所应享有的权利。我们会在本页面上发布对本政策所做的任何变更。
+
+对于重大变更，我们还会提供更为显著的通知。本政策所指的重大变更包括但不限于：\n
+
+    \t\t1、我们的服务模式发生重大变化。如之后需要收集用户信息、处理用户信息的目的、处理的用户信息类型、用户信息的使用方式等；\n
+
+    \t\t2、我们在所有权结构、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；\n
+
+    \t\t3、用户信息共享、转让或公开披露的主要对象发生变化；\n
+
+    \t\t4、您参与用户信息处理方面的权利及其行使方式发生重大变化；\n
+
+    \t\t5、我们负责处理用户信息安全的责任部门、联络方式及投诉渠道发生变化时；\n
+
+    \t\t6、用户信息安全影响评估报告表明存在高风险时。\n
+
+    \t\t我们还会将本政策的旧版本存档，供您查阅。\n
+
+三、如何联系我们\n
+
+    \t\t如果您对本隐私政策有任何疑问、意见或建议，通过以下方式与我们联系：\n
+
+    \t\t电子邮件：1224330654@qq.com\n
+
+    \t\t电　　话：18280124070\n
+
+    \t\t如您同意，请点击同意我们的服务。\n
+</string>
+</resources>
